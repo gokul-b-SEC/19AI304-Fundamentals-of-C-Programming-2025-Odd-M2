@@ -59,7 +59,8 @@
 <img width="1093" height="718" alt="MODULE 2" src="https://github.com/user-attachments/assets/c2a42193-a9d4-4abe-8be6-98df194de986" />
 
 # Output:
-<img width="1093" height="718" alt="MODULE 2" src="https://github.com/user-attachments/assets/9a6b5f46-8fad-44c6-9a22-f05729ce74d3" />
+<img width="466" height="321" alt="Screenshot 2025-12-27 134444" src="https://github.com/user-attachments/assets/26bf21f5-e54c-4bc5-82a7-2cecc1cc6b6c" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
