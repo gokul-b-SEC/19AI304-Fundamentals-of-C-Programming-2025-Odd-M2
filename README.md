@@ -56,7 +56,11 @@
 ### Step 11:
   Stop
 # Program:
+<img width="1093" height="718" alt="MODULE 2" src="https://github.com/user-attachments/assets/c2a42193-a9d4-4abe-8be6-98df194de986" />
+
 # Output:
+<img width="1093" height="718" alt="MODULE 2" src="https://github.com/user-attachments/assets/9a6b5f46-8fad-44c6-9a22-f05729ce74d3" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -88,7 +92,14 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+<img width="1119" height="340" alt="Screenshot 2025-12-27 134456" src="https://github.com/user-attachments/assets/7dc6cccc-5487-4fff-8ce8-064e0b76e43f" />
+<img width="1087" height="74" alt="Screenshot 2025-12-27 134504" src="https://github.com/user-attachments/assets/090e8efb-1109-4018-b8e5-d0d45c804f91" />
+
+
 # Output:
+<img width="459" height="501" alt="Screenshot 2025-12-27 134510" src="https://github.com/user-attachments/assets/3f9cf9cc-3fa7-4192-89e2-263f57e964e2" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -131,7 +142,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+<img width="1128" height="598" alt="Screenshot 2025-12-27 134844" src="https://github.com/user-attachments/assets/dcca88dd-07ef-496a-8179-fdfd6ea9deb5" />
+
 # Output:
+<img width="456" height="248" alt="Screenshot 2025-12-27 134852" src="https://github.com/user-attachments/assets/c0f51aa1-e0be-4328-91e1-bc84d6052b9a" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -179,7 +194,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="1130" height="662" alt="Screenshot 2025-12-27 134905" src="https://github.com/user-attachments/assets/d7ab6a29-3f77-47bb-b291-e45503b7a2b1" />
+
 # Output:
+<img width="577" height="393" alt="Screenshot 2025-12-27 134914" src="https://github.com/user-attachments/assets/197b2ff1-6472-4417-bc17-37481b35fdd9" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -232,6 +251,14 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+  # PROGRAM:
+  <img width="1121" height="569" alt="Screenshot 2025-12-27 134941" src="https://github.com/user-attachments/assets/828515cd-7e28-44ff-a58f-b496a74d1a25" />
+  # OUTPUT:
+  <img width="533" height="488" alt="Screenshot 2025-12-27 134949" src="https://github.com/user-attachments/assets/ad572bc6-9bb5-45cb-958d-0e62a8e5d023" />
+
+  
+  
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
